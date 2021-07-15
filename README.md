@@ -165,15 +165,15 @@ ___
 
 ## Legal Notice
 
-###Lizenz
+### Lizenz
 Python (Source-Code oder aufbereitet) ist bei Beibehaltung des Lizenztextes unter der MIT License frei nutzbar und weiterverbreitbar.
 
 [Lizenztext](https://github.com/mdr-data/automated-election-reporting-de/blob/main/LICENSE)
 
 Für Grafiken wird kein Nutzungsrecht eingeräumt.
 
-###Urheberrecht
+### Urheberrecht
 Copyright Mitteldeutscher Rundfunk & ida
 
-###Gewähleistungsausschluss
+### Gewähleistungsausschluss
 Es besteht keinerlei Gewährleistung für das Programm, soweit dies gesetzlich zulässig ist. Sofern nicht anderweitig schriftlich bestätigt, stellen die Urheberrechtsinhaber und/oder Dritte das Programm so zur Verfügung, „wie es ist“, ohne irgendeine Gewährleistung. Das volle Risiko bezüglich Qualität und Leistungsfähigkeit des Programms liegt bei Ihnen.
